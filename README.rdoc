@@ -1,3 +1,18 @@
+Chefs:
+
+
+What we have already:
+- Chef model and validations
+- chef table with columns chefname and email
+
+
+What we need to do:
+- Add passwords to chefs table so chefs can be authentiacted and logged initialization
+- Use email as log in credentials
+- Ability to register new chefs to use the capp
+- Ability to display chefs profile
+
+
 
 testing specs for recipe:
 name : string
